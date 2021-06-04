@@ -1,0 +1,84 @@
+<html>
+
+ <body>
+  <table width="800" border="0" align="center" cellpadding="5">
+   <tr>
+    <td colspan="2">Basic Info<hr/></td>
+   </tr>
+   <tr>
+    <td width="50%" align="right">Full Name:</td>
+    <td> MEHEDI HASAN</td>
+   </tr>
+   <tr>
+    <td align="right">Father's Name:</td>
+    <td>AMZAD HOSSAIN</td>
+   </tr>
+   <tr>
+    <td align="right">Age:</td>
+    <td>24 Years</td>
+   </tr>
+   <tr>
+    <td align="right">Date of Birth:</td>
+    <td>26<sup>th</sup> JANUARY 1997</td>
+   </tr>
+   <tr>
+    <td align="right">Religion:</td>
+    <td>ISLAM</td>
+   </tr>
+   <tr>
+    <td align="right">Nationality:</td>
+    <td>BANGLADESHI</td>
+   </tr>
+   <tr>
+    <td colspan="2">Contact Details<hr/></td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Address:</td>
+    <td>KHILKHET</br>
+    NOYANOGOR</br>
+    17/2A</td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Phone Number:</td>
+    <td>01830377213</br>
+   </td>
+   </tr>
+   <tr>
+    <td align="right">Email Address:</td>
+    <td>mehedihasan7728@gmail.com</td>
+   </tr>
+   <tr>
+    <td colspan="2">Eduction & Knowledge<hr/></td>
+   </tr>
+   <tr>
+    <td align="right">Language:</td>
+    <td>English, Bangla</td>
+   </tr><tr>
+    <td align="right">Eduction:</td>
+    <td>BSC.CSE</td>
+   </tr><tr>
+    <td align="right">Other Knowledge:</td>
+    <td>HTML,CSS,PHP</td>
+   </tr><tr>
+    <td align="right">Hobbies:</td>
+    <td> Cricket, Cycling</td>
+   </tr>
+   <tr>
+    <td colspan="2">Work<hr/></td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Work Experience:</td>
+    <td>none<br/>
+  
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">About Me<hr/></td>
+   </tr>
+   <tr>
+    <td colspan="2">I am a hard working person.Coding is my passion.<hr/></td>
+   </tr>
+  </table>
+ </body>
+
+</html>
