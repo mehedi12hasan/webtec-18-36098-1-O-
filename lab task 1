@@ -1,0 +1,46 @@
+<html>
+<head> 
+        <title> Donotes reqiured information </title>
+</head>
+
+<body> <h1 style="color:red"> Donor Information  </h1>
+
+<form>
+<pre>
+                             <b> First Name<b style="color:red">* </b><input type=text> <br>
+                             <b> Last Name <b style="color:red">* </b><input type=text> <br>
+                             <b> Compant   <b style="color:red">* </b><input type=text> <br>
+                             <b> Adrees 1  <b style="color:red">* </b><input type=text> <br>
+                             <b> Adress 2    </b><input type=text> <br>
+                             <b> City      <b style="color:red">* </b><input type=text> <br>
+                             <b> Status    <b style="color:red">* </b><input type=text value="select a status"> <br>
+                             <b> Zip Code  <b style="color:red">* </b><input type=text> <br>
+                             <b> Country   <b style="color:red">* </b><input type=text value="select a country"> <br>
+                             <b> Phone       </b><input type=text> <br>
+                             <b> Fax         </b><input type=text> <br>
+                             <b> Email     <b style="color:red">* </b><input type=text> <br>
+                       <b> Donation Ammount<b style="color:red">* </b><input type="radio" value="none"></b><input type="radio" value="50$">
+
+                                                                     
+
+    <h1 style="color:red">Honorarium and Memorial Donation Information</h1>
+                              <b> Name    </b><input type=text> <br>
+                              <b> Adress  </b><input type=text> <br>
+                              <b> City    </b><input type=text> <br>
+                              <b> Status  </b><input type=text> <br>
+                              <b> Zip     </b><input type=text> <br>
+    
+
+
+
+
+
+
+
+</pre>
+</form>
+
+</body>
+
+
+</html>
